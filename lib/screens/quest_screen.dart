@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'quest_detail_screen.dart';
+import 'package:flutter/material.dart';
 import '../models/coin_wallet_provider.dart';
 
 class QuestScreen extends StatelessWidget {
